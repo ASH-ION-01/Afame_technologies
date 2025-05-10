@@ -7,31 +7,31 @@ const SkillsSection = () => {
     // Updated data for each item
     const itemsData = [
         { 
-            imageUrl: 'src/assets/01.png',
+            imageUrl: '/01.png',
             title: 'Slider 01 Title',
             para: 'Paragraph for Slider 01',
             blah: 'befkgvebbbbbbbb'
         },
         { 
-            imageUrl: 'src/assets/02.png',
+            imageUrl: '/02.png',
             title: 'Slider 02 Title',
             para: 'Paragraph for Slider 02',
             blah: 'behfbkbreuuuuu'
         },
         { 
-            imageUrl: 'src/assets/03.png',
+            imageUrl: '/03.png',
             title: 'Slider 03 Title',
             para: 'Paragraph for Slider 03',
             blah: 'befkgvebiiiiiiiii'
         },
         { 
-            imageUrl: 'src/assets/04.png',
+            imageUrl: '/04.png',
             title: 'Slider 04 Title',
             para: 'Paragraph for Slider 04',
             blah: 'befkgvebaaaaaaaaaaa'
         },
         { 
-            imageUrl: 'src/assets/05.png',
+            imageUrl: '/05.png',
             title: 'Slider 05 Title',
             para: 'Paragraph for Slider 05',
             blah: 'befkgvebcccccccccccc'

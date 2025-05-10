@@ -19,7 +19,7 @@ function HeroSection() {
       <div className="container mx-auto flex flex-col md:flex-row items-center px-6">
         <div className="w-3/4  mb-8 md:mb-0 flex justify-center">
           <div className="bg-black rounded-full p-4">
-            <img src="src/assets/himmn.jpg" alt="About Me" className="rounded-full shadow-lg w-3/4 "/>
+            <img src="/himmn.jpg" alt="About Me" className="rounded-full shadow-lg w-3/4 "/>
           </div>
         </div>
         <div className="w-full md:w-1/2 md:pl-10">

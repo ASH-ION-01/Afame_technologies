@@ -28,7 +28,7 @@ function Navbar() {
           <a href="https://www.facebook.com" className="text-gray-300 animate-pulse hover:text-white">
             <FaFacebook size={24} />
           </a>
-          <a href="https://www.linkedin.com" className="text-gray-300 animate-pulse hover:text-white">
+          <a href="https://www.linkedin.com/in/ashish-kumar-157051226/" className="text-gray-300 animate-pulse hover:text-white">
             <FaLinkedin size={24} />
           </a>
           <input type='search' name='search -form' id='search-form' className=' rounded-xl h-[2rem] text-green-700' placeholder='Search'/>
