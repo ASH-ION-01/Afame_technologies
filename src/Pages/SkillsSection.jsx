@@ -6,37 +6,38 @@ const SkillsSection = () => {
 
     // Updated data for each item
     const itemsData = [
-        { 
-            imageUrl: '/01.png',
-            title: 'Slider 01 Title',
-            para: 'Paragraph for Slider 01',
-            blah: 'befkgvebbbbbbbb'
-        },
-        { 
-            imageUrl: '/02.png',
-            title: 'Slider 02 Title',
-            para: 'Paragraph for Slider 02',
-            blah: 'behfbkbreuuuuu'
-        },
-        { 
-            imageUrl: '/03.png',
-            title: 'Slider 03 Title',
-            para: 'Paragraph for Slider 03',
-            blah: 'befkgvebiiiiiiiii'
-        },
-        { 
-            imageUrl: '/04.png',
-            title: 'Slider 04 Title',
-            para: 'Paragraph for Slider 04',
-            blah: 'befkgvebaaaaaaaaaaa'
-        },
-        { 
-            imageUrl: '/05.png',
-            title: 'Slider 05 Title',
-            para: 'Paragraph for Slider 05',
-            blah: 'befkgvebcccccccccccc'
-        },
-    ];
+  { 
+    imageUrl: '/01.png',
+    title: 'CareU Healthcare App',
+    para: 'A comprehensive React app for symptom-based medication suggestions, doctor search, appointment booking and medicine delivery tracking.',
+    blah: '“Empowering health, one click at a time.”'
+  },
+  { 
+    imageUrl: '/02.png',
+    title: 'InAct Interactive Map',
+    para: 'A real-time mapping solution using Leaflet and Socket.io to animate vessel/navigation pointers between coordinates.',
+    blah: '“Bringing data to life through motion.”'
+  },
+  { 
+    imageUrl: '/03.png',
+    title: 'Shoptify E-Commerce',
+    para: 'An online shopping cart system handling 2,500+ products with integrated payments and seamless UX built in React and Tailwind CSS.',
+    blah: '“Shop smarter, not harder.”'
+  },
+  { 
+    imageUrl: '/04.png',
+    title: 'Codxo Weather App',
+    para: 'A React-based weather forecasting application fetching and displaying live weather data with an intuitive UI.',
+    blah: '“Weather at your fingertips.”'
+  },
+  { 
+    imageUrl: '/05.png',
+    title: 'Razorpay Clone Gateway',
+    para: 'A Node.js & Razorpay powered crypto-to-fiat payment middleware, dynamically converting based on live rates.',
+    blah: '“Crypto meets convenience.”'
+  },
+];
+
 
     useEffect(() => {
         const refreshInterval = setInterval(() => {
